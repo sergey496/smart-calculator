@@ -24,7 +24,7 @@ class SmartCalculator {
 
   devide(number) 
 	  {
-		this.str += "*"+number;
+		this.str += "/"+number;
 		return this;
 	  }
 
